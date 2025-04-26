@@ -1,6 +1,6 @@
 # Stellar-Docs
-Stellar docs
+## Stellar docs
 
-Add Head
+## Add Head
 
-Add Body
+## Add Body
